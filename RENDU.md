@@ -1,0 +1,3 @@
+<h1>Rendu :</h1>
+
+Nous avons pu entièrement terminer ce projet et résoudre toutes ses complications, cependant l'un des plus gros problèmes que nous avons rencontrés dans ce projet était de ne pas pouvoir utiliser Alsatian, pour une raison quelconque, il ne détectait pas les tests sur nos PC Windows et ce problème concernait l'ensemble du groupe. Après plusieurs heures à essayer de résoudre le problème, nous avons pensé que nous pouvions utiliser un plugin de Visual Studio Code créé par Alsatian pour résoudre le problème. Nous avons dû faire certaines fonctions et tester certaines d'entre elles manuellement (sur le serveur) avant trouver la solution au problème puisque nous travaillions à des moments où les ordinateurs de l'université n'étaient pas accessibles.
